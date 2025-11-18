@@ -5,6 +5,11 @@ It visualizes a 2-link robotic arm reaching any target point (**XE, YE, ZE**) us
 
 ---
 
+
+[![Deploy App](https://img.shields.io/badge/🚀_Open_App-Streamlit-blue?style=for-the-badge)](https://robotic-arm-pso-optimization.streamlit.app/)
+
+
+
 ## 🌟 Features
 
 ### 🔵 Real-Time PSO Simulation
